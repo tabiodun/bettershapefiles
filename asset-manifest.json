@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/bettershapefiles/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/bettershapefiles/static/js/main.21d404c4.chunk.js",
-    "main.js.map": "/bettershapefiles/static/js/main.21d404c4.chunk.js.map",
+    "main.css": "/bettershapefiles/static/css/main.a898a45c.chunk.css",
+    "main.js": "/bettershapefiles/static/js/main.b6a5c2f5.chunk.js",
+    "main.js.map": "/bettershapefiles/static/js/main.b6a5c2f5.chunk.js.map",
     "runtime-main.js": "/bettershapefiles/static/js/runtime-main.8c025433.js",
     "runtime-main.js.map": "/bettershapefiles/static/js/runtime-main.8c025433.js.map",
     "static/js/2.d38fbb83.chunk.js": "/bettershapefiles/static/js/2.d38fbb83.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.9deb67a3.chunk.js": "/bettershapefiles/static/js/3.9deb67a3.chunk.js",
     "static/js/3.9deb67a3.chunk.js.map": "/bettershapefiles/static/js/3.9deb67a3.chunk.js.map",
     "index.html": "/bettershapefiles/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/bettershapefiles/static/css/main.8c8b27cf.chunk.css.map",
+    "static/css/main.a898a45c.chunk.css.map": "/bettershapefiles/static/css/main.a898a45c.chunk.css.map",
     "static/js/2.d38fbb83.chunk.js.LICENSE.txt": "/bettershapefiles/static/js/2.d38fbb83.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/bettershapefiles/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.8c025433.js",
     "static/js/2.d38fbb83.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.21d404c4.chunk.js"
+    "static/css/main.a898a45c.chunk.css",
+    "static/js/main.b6a5c2f5.chunk.js"
   ]
 }
